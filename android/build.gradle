@@ -25,6 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
+    namespeace com.chaunguyen.flutter_config_plus
     compileSdkVersion 33
 
     compileOptions {
